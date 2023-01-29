@@ -1,1 +1,2 @@
-# tcl
+# Sukrie TCL
+pake aja
