@@ -1,2 +1,1 @@
-# Sukrie TCL
-pake aja
+pake aja boss..
